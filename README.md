@@ -3,7 +3,7 @@
 ## Context
 Web scraping is the process of extracting data from websites. This process involves sending an HTTP request to the target website and extracting the desired data.
 
-I use the website https://books.toscrape.com/index.html to practice and improve my understanding of web scraping.
+I use the website [Books to Scrape](https://books.toscrape.com/index.html) to practice and improve my understanding of web scraping.
 
 ## Analysis Plan
 
