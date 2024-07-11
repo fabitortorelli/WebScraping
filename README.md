@@ -29,4 +29,4 @@ I use the website https://books.toscrape.com/index.html to practice and improve 
 * Perform descriptive analysis on the collected data
 * Explore patterns and insights derived from the extracted book titles and star ratings
 
-**Note:** For a detailed presentation of this project, visit my Medium page [Web Scraping: A Way to Collect Data] (https://medium.com/@fabitortorelli/web-scraping-a-way-to-collect-data-8ca2ee4af1cf)
+**Note:** For a detailed presentation of this project, visit my Medium page [Web Scraping: A Way to Collect Data](https://medium.com/@fabitortorelli/web-scraping-a-way-to-collect-data-8ca2ee4af1cf)
